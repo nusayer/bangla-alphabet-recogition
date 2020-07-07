@@ -2,7 +2,7 @@
 
 The original dataset had images of varying dimensions. Therefore, all the images were reshaped to 50x50 matrix. 
 
-<img src="https://github.com/nusayer/bangla-alphabet-recogition/blob/master/images/datapreprocessing.png" width="450">
+<img src="https://github.com/nusayer/bangla-alphabet-recogition/blob/master/images/datapreprocessing.png" width="700">
 
 ### Layers Used:
 
@@ -12,7 +12,7 @@ The original dataset had images of varying dimensions. Therefore, all the images
 
 * Validation accuracy of _81.70%_ was achieved.
 
-<img src="https://github.com/nusayer/bangla-alphabet-recogition/blob/master/images/results2.png" width="700">
+<img src="https://github.com/nusayer/bangla-alphabet-recogition/blob/master/images/results2.png" width="1000">
 
 
 
